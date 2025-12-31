@@ -22,5 +22,3 @@ A simple project that checks whether a username is **available, taken, or invali
 ## Purpose
 This project is made for learning and practice, especially for beginners.
 
-## Author
-Anshika
