@@ -1,4 +1,4 @@
-# username.cheaker
+
 # Username Checker
 
 A simple project that checks whether a username is **available, taken, or invalid**.
@@ -15,9 +15,11 @@ A simple project that checks whether a username is **available, taken, or invali
 - JavaScript
 
 ## How to Use
-1. Enter a username  
-2. Click **Check**  
-3. Get instant result (Available / Not Available)
+1. Open the project in your browser
+2. Enter a username
+3. Click **Check**
+4. Get instant result (Available / Not Available)
+
 
 ## Purpose
 This project is made for learning and practice, especially for beginners.
